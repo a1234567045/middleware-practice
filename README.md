@@ -8,7 +8,7 @@
 
 # 專案畫面
 
-![image](https://github.com/a1234567045/middleware-test/blob/3d99ec95eee082e0beb087dd812bf94feb85d281/middlewaer.png) 
+![image](https://github.com/a1234567045/middleware-practice/blob/13578085f3c78a0f6d536c876c8fb8b0afcdb516/middlewaer.png) 
 
 # 環境建置與需求
 * 開發環境：Node.js v10.15.0
@@ -28,14 +28,14 @@ npm install nodemon
 ```
 
 3. 接下來啟動伺服器來執行專案。
-```
-npm run dev
-```
+
+    npm run dev
+
 * 當終端機顯示以下訊息即成功啟動，使用瀏覽器於網址列中輸入 http://localhost:3000 即可開始操作專案
 ```
-App is running on http://localhost:3000
+    App is running on http://localhost:3000
 ```
 4. 在伺服器啟動狀態下於鍵盤按下 Ctrl + C ，即可關閉伺服器停止執行專案
 
-## 專案開發人員 - Wei
+## 專案開發人員
 [wei](https://github.com/a1234567045/middleware-test)
