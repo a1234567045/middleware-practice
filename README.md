@@ -8,6 +8,7 @@
 
 # 專案畫面
 
+![image](https://github.com/a1234567045/middleware-test/blob/3d99ec95eee082e0beb087dd812bf94feb85d281/middlewaer.png) 
 
 # 環境建置與需求
 * 開發環境：Node.js v10.15.0
@@ -17,11 +18,11 @@
 
 1. 打開終端機(Terminal)，使用 git clone 將專案下載至本機電腦，或是直接在 github 下載專案壓縮檔(Download ZIP)。
 
-git clone
+git clone https://github.com/a1234567045/middleware-test.git
 
 2. 在終端機輸入以下指令，進入專案資料夾，並安裝執行專案需要的相關套件
 ```
-cd middleware
+cd middleware-practice
 npm install
 npm install nodemon
 ```
@@ -37,4 +38,4 @@ App is running on http://localhost:3000
 4. 在伺服器啟動狀態下於鍵盤按下 Ctrl + C ，即可關閉伺服器停止執行專案
 
 ## 專案開發人員 - Wei
-
+[wei](https://github.com/a1234567045/middleware-test)
