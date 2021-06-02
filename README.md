@@ -22,7 +22,7 @@ git clone https://github.com/a1234567045/middleware-test.git
 
 2. 在終端機輸入以下指令，進入專案資料夾，並安裝執行專案需要的相關套件
 ```
-cd middleware-practice
+cd middleware
 npm install
 npm install nodemon
 ```
